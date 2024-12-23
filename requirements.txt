@@ -1,0 +1,4 @@
+asyncio
+ccxt==3.1.54
+pandas
+python-dotenv==1.0.0
